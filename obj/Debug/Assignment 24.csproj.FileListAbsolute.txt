@@ -1,0 +1,10 @@
+D:\exercises\7-8\Assignment 24\Assignment 24\bin\Debug\Assignment 24.exe.config
+D:\exercises\7-8\Assignment 24\Assignment 24\bin\Debug\Assignment 24.exe
+D:\exercises\7-8\Assignment 24\Assignment 24\bin\Debug\Assignment 24.pdb
+D:\exercises\7-8\Assignment 24\Assignment 24\bin\Debug\Assignment24Lib.dll
+D:\exercises\7-8\Assignment 24\Assignment 24\bin\Debug\Assignment24Lib.pdb
+D:\exercises\7-8\Assignment 24\Assignment 24\obj\Debug\Assignment 24.csproj.AssemblyReference.cache
+D:\exercises\7-8\Assignment 24\Assignment 24\obj\Debug\Assignment 24.csproj.CoreCompileInputs.cache
+D:\exercises\7-8\Assignment 24\Assignment 24\obj\Debug\Assignment 24.csproj.CopyComplete
+D:\exercises\7-8\Assignment 24\Assignment 24\obj\Debug\Assignment 24.exe
+D:\exercises\7-8\Assignment 24\Assignment 24\obj\Debug\Assignment 24.pdb
